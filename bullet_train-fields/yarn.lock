@@ -3228,11 +3228,11 @@ __metadata:
   linkType: hard
 
 "minimatch@npm:^3.0.4, minimatch@npm:^3.1.1, minimatch@npm:^3.1.2":
-  version: 3.1.2
-  resolution: "minimatch@npm:3.1.2"
+  version: 3.1.5
+  resolution: "minimatch@npm:3.1.5"
   dependencies:
     brace-expansion: "npm:^1.1.7"
-  checksum: 10c0/0262810a8fc2e72cca45d6fd86bd349eee435eb95ac6aa45c9ea2180e7ee875ef44c32b55b5973ceabe95ea12682f6e3725cbb63d7a2d1da3ae1163c8b210311
+  checksum: 10c0/2ecbdc0d33f07bddb0315a8b5afbcb761307a8778b48f0b312418ccbced99f104a2d17d8aca7573433c70e8ccd1c56823a441897a45e384ea76ef401a26ace70
   languageName: node
   linkType: hard
 
@@ -4395,8 +4395,8 @@ __metadata:
   linkType: hard
 
 "rollup@npm:^2.35.1":
-  version: 2.79.2
-  resolution: "rollup@npm:2.79.2"
+  version: 2.80.0
+  resolution: "rollup@npm:2.80.0"
   dependencies:
     fsevents: "npm:~2.3.2"
   dependenciesMeta:
@@ -4404,7 +4404,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: 10c0/bc3746c988d903c2211266ddc539379d53d92689b9cc5c2b4e3ae161689de9af491957a567c629b6cc81f48d0928a7591fc4c383fba68a48d2966c9fb8a2bce9
+  checksum: 10c0/48ad7b79a4ef9332cf90692d28c05f904132820964f012941372ec4f31c18635e1b7909823058964fb2b216154713bfbe82ec00920d71b15f3fe13bb9df3eac8
   languageName: node
   linkType: hard
 
@@ -4794,11 +4794,11 @@ __metadata:
   linkType: hard
 
 "trix@npm:^2.0.1":
-  version: 2.1.15
-  resolution: "trix@npm:2.1.15"
+  version: 2.1.16
+  resolution: "trix@npm:2.1.16"
   dependencies:
     dompurify: "npm:^3.2.5"
-  checksum: 10c0/fb1b53d03e13d007a21c7417bbc994b24073a48d51b94bee679f8bb748b2e2cf9469372b3292d40f27bf502a88ab27d43a0c3c08928b708f65741c1f9eca7c77
+  checksum: 10c0/2ff194df6b932ff89b12fab999588c62dc64732a76e45433259725530f3d1d6b203e58b9e099e70e1faa5fdad3766dbd8c373c4d9cbb56b1ca7a8c3fb0421f43
   languageName: node
   linkType: hard
 
