@@ -324,7 +324,7 @@ GEM
       prettyprint
     prettyprint (0.2.0)
     prism (1.4.0)
-    psych (5.2.3)
+    psych (5.3.1)
       date
       stringio
     public_suffix (7.0.5)
@@ -378,9 +378,10 @@ GEM
     rb_sys (0.9.125)
       json (>= 2)
       rake-compiler-dock (= 1.11.0)
-    rdoc (6.14.2)
+    rdoc (7.2.0)
       erb
       psych (>= 4.0.0)
+      tsort
     regexp_parser (2.10.0)
     reline (0.6.0)
       io-console (~> 0.5)
